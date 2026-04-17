@@ -493,6 +493,8 @@ Post-music aims to engineer internal reachability modulation through controlled 
 Accordingly, post-music should not be understood merely as a new musical style.  
 It is better understood as a framework for engineering dynamic gate modulation across memory, emotion, meaning, and self-structure.
 
+In this limited sense, post-music may also be understood as a framework for shaping state transitions in consciousness through temporal structure.
+
 **JP**
 
 この枠組みにおいて、ポスト音楽とは、従来音楽がしばしば暗黙的に行っていた機能を、明示的・測定可能・設計可能に継承するものとして提案される。
@@ -508,6 +510,8 @@ It is better understood as a framework for engineering dynamic gate modulation a
 
 したがって、ポスト音楽は単なる新しい音楽様式ではない。  
 それは、記憶・感情・意味・自己構造にまたがる動的ゲート変調を工学化する枠組みとして理解されるべきである。
+
+この限定的な意味において、ポスト音楽は、時間構造を通じて意識の状態遷移を方向づける枠組みとして理解することもできる。
 
 ---
 
