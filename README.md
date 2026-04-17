@@ -50,7 +50,7 @@ It should be read as a structured theoretical foundation from which more explici
 
 The current main document is:
 
-- `post_music_theory.md`
+- [`post_music_theory.md`](./post_music_theory.md)
 
 This file contains the minimal core formulation of the theory, including:
 
@@ -64,7 +64,7 @@ This file contains the minimal core formulation of the theory, including:
 
 現在の中核文書は以下である。
 
-- `post_music_theory.md`
+- [`post_music_theory.md`](./post_music_theory.md)
 
 この文書には、理論の最小中核として、主に以下が含まれる。
 
