@@ -10,6 +10,8 @@ The central claim of this project is that music should not be reduced to enterta
 
 Within this framework, music is treated as something that changes not only perception itself, but also which internal states become more reachable: memory states, emotionally stabilized states, meaning-bearing states, motivational states, and states of restored self-continuity.
 
+Here, **post-music** refers to a future-oriented expansion of music beyond conventional listening-centered forms, toward a framework in which music functions as a measurable and designable modulation of internal reachability.
+
 This repository currently focuses on the **core theoretical layer**.  
 Detailed supplements, implementation notes, and experimental designs will be added incrementally.
 
@@ -20,6 +22,8 @@ Detailed supplements, implementation notes, and experimental designs will be add
 本研究の中心命題は、音楽を単なる娯楽、美的装飾、あるいは外的な意味伝達へ還元すべきではない、という点にある。本理論では、音楽を、**観測者の内的到達可能性分布を変調する構造化時間系**として扱う。
 
 この枠組みにおいて音楽は、単に知覚内容を変えるだけではなく、どの内的状態がより到達しやすくなるか――すなわち、記憶状態、情動安定状態、意味形成状態、動機づけ状態、自己連続性回復状態など――を変えるものとして位置づけられる。
+
+本リポジトリでいう **ポスト音楽** とは、従来の聴取中心的な音楽概念を越えて拡張された、未来志向の音楽概念を指す。より具体的には、音楽を、内的到達可能性を測定可能かつ設計可能に変調する枠組みとして捉えるものである。
 
 現段階では、主として **中核理論層** を扱う。  
 補論、実装ノート、実験設計などは今後段階的に追加する予定である。
@@ -37,7 +41,7 @@ It should be read as a structured theoretical foundation from which more explici
 
 **JP**
 
-**状態:** 基礎理論ドラフト / 中核理論アウトライン（v0.1）
+**ステータス:** 基礎理論ドラフト / 中核理論アウトライン（v0.1）
 
 本リポジトリは、現段階では完成した経験理論を提示するものではない。  
 今後の定式化、実装、反証可能化へ進むための構造的理論基盤として読むべきである。
