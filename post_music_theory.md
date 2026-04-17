@@ -15,6 +15,8 @@ Its central claim is that music should not be reduced to entertainment, aestheti
 
 Within this framework, music changes not only what is perceived, but also which internal states become more reachable: memory states, emotional stabilizations, meaning-formation states, motivational states, and states of restored self-continuity.
 
+In this document, **post-music** refers to a future-oriented extension of music in which temporal structure is treated not only as aesthetic form, but also as a measurable and designable modulation of internal reachability.
+
 This document focuses only on the core theory.  
 Detailed integrations with broader ontological frameworks, forgetting dynamics, and implementation notes are treated separately.
 
@@ -25,6 +27,8 @@ Detailed integrations with broader ontological frameworks, forgetting dynamics, 
 
 この枠組みにおいて、音楽は単に「何が知覚されるか」を変えるだけではない。  
 それは、どの内的状態がより到達しやすくなるか――すなわち、記憶状態、情動安定状態、意味形成状態、動機づけ状態、自己連続性回復状態など――を変える。
+
+本稿でいう **ポスト音楽** とは、時間構造を単なる美的形式としてではなく、内的到達可能性を測定可能かつ設計可能に変調するものとして扱う、未来志向の拡張音楽概念を指す。
 
 本稿はあくまで中核理論に限定する。  
 より広い存在論的枠組み、忘却ダイナミクスの詳細、実装ノートとの統合は別文書に委ねる。
