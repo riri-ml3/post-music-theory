@@ -115,3 +115,26 @@ Definitions, notation, and document structure may continue to evolve as the fram
 
 本リポジトリは、進行中の理論研究プログラムの一部である。  
 定義、記法、文書構造は、理論がより明示的かつ検証可能になるにつれて、今後も更新されうる。
+
+---
+
+## Research Materials / 研究資料
+
+**EN:** The following are *methodological candidates* and mathematical notes for the first controlled rhythm study. They do not report participant data or validated psychological effects, and do not supersede the theoretical Core.
+
+- [F01 candidate specification — 24 bars, 192 notes](./experiments/f01_pitch_v1.md)
+- [F01 canonical pitch data (JSON)](./experiments/f01_pitch_v1.json)
+- [F01 event-table generator and validation checks (Python)](./experiments/f01_stimulus_build_v0_1_1.py)
+- [Measurement and falsifiability audit](./experiments/measurement_audit_v0_1.md)
+- [Euclidean rhythm and timing-design note](./experiments/euclidean_rhythm_note_v0_1.md)
+
+**JP:** 以下は、第1段階のリズム比較に向けた**実験方法論の候補資料**および数学的補論である。人間を対象とする実験結果や、音楽の心理的効果が実証されたことを意味しない。従来のCore定義を上書きしない。
+
+- [F01候補仕様（24小節・192音）](./experiments/f01_pitch_v1.md)
+- [F01共通音高データ（JSON）](./experiments/f01_pitch_v1.json)
+- [イベント表生成・検査コード（Python）](./experiments/f01_stimulus_build_v0_1_1.py)
+- [測定・反証可能性監査](./experiments/measurement_audit_v0_1.md)
+- [ユークリッドリズムと時間配置の補論](./experiments/euclidean_rhythm_note_v0_1.md)
+
+**Reproducibility note / 再現性:** `python experiments/f01_stimulus_build_v0_1_1.py --self-test` はPython標準ライブラリのみを使用して、手元でL/M/HのCSVイベント表を生成・検査する候補コマンドである。GitHub上での自動CIテスト、音声レンダリング、聴取予備調査はまだ完了していない。
+
