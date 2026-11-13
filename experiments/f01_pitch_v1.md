@@ -97,10 +97,10 @@ L/M/Hでは音高・音域・イベント数・音価・強弱規則・全長・
 
 - `f01_pitch_v1.json`: 24 × 8 canonical pitch array.
 - `f01_stimulus_build_v0_1_1.py`: deterministic event generator and structural negative tests; no audio synthesis.
-- `generated_events/f01_events_L.json`, `f01_events_M.json`, `f01_events_H.json`: 192 events per condition with exact onset timestamps expressed in integer microseconds.
-- `generated_events/f01_validation_report.json`: structural checks, cross-condition checks, and SHA-256 file hashes.
+- `generated_events/f01_events_L.csv`, `f01_events_M.csv`, `f01_events_H.csv`: **生成器を実行するとローカルに生成される**CSVイベント表。各条件192イベント、onsetは整数マイクロ秒で記録される。
+- `generated_events/f01_validation_report.json`: **生成器実行時にローカル生成される**構造検査・クロス条件検査の記録とSHA-256ハッシュ。これらの生成物はGitHubリポジトリにまだ収録されていない。
 
-Run from the same directory: `python f01_stimulus_build_v0_1_1.py --self-test`. No third-party dependencies.
+Run from the repository root: `python experiments/f01_stimulus_build_v0_1_1.py --self-test`. Python標準ライブラリのみを用いる。GitHub上でのCIによる実行検証は未実施である。
 
 ## 7. Pre-experiment limitations and required review
 
